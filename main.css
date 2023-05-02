@@ -146,24 +146,24 @@ section h2 {
     background-color: #ff9f1a
 }
 
-#entretenimento{
+#entertainment{
 
     background-color: burlywood;
 }
 
-#Tecnology{
+#Tecnology {
 
     background-color: rgb(194, 243, 227);
 }
 
-#entretenimento .articles article a{
+#entertainment .articles article a {
 
     background-color: brown;
 
 
 }
 
-#Tecnology .articles article a{
+#Tecnology .articles article a {
 
     background-color: green;
 }
